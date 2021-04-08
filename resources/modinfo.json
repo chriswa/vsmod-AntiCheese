@@ -1,0 +1,14 @@
+{
+  "type": "Code",
+  "side": "Client",
+  "modid": "anticheese",
+  "name": "AntiCheese",
+  "authors": [
+    "goxmeor",
+  ],
+  "description": "Prevents some cheesing/cheating.",
+  "version": "1.0.0",
+  "dependency": {
+    "game": ""
+  }
+}
