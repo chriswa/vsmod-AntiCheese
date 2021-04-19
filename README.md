@@ -12,4 +12,4 @@ Entity Debug Info gives away hidden enemy locations and can provide knowledge of
 
 Prevents the client from seeing the HudDebugScreen, which is normally shown with `ctrl + f3`.
 
-The HudDebugScreen gives away the direction the player is facing, as well as other information which may or may not aid in the production of cheese.
+The HudDebugScreen gives away the direction the player is facing, as well as other information which may or may not aid in the production of additional cheese.
